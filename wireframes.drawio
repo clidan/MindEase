@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" modified="2024-07-08T14:56:19.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="63djK1Yd-L8yDpc5EnaC" version="24.6.4" type="google">
+  <diagram name="Page-1" id="fPaACOdC81saoHEJNqDq">
+    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#006666" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hWtYgj3VgEDyoIT9tjff-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="-320" width="180" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="hWtYgj3VgEDyoIT9tjff-3" value="MindEsae" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="-176" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hWtYgj3VgEDyoIT9tjff-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="-723" y="-320" width="200" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="hWtYgj3VgEDyoIT9tjff-6" value="MindEase" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-663" y="-256" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-13" value="Your Mental Health Companion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1156.5" y="-66" width="153" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-14" value="sign up" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="41" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-16" value="Check category" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-683" y="-156" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-577" y="-87" width="29.16" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-577" y="-54" width="27" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-19" value="Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-703" y="-88" width="60" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-20" value="Therapist" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-713" y="-56.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.75;dx=25;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="-594" y="61" width="59" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="-953" y="-320" width="200" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-28" value="MindEase" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-893" y="-256" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-29" value="Enter Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-913" y="-166" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-30" value="Email&lt;div&gt;_____________&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-893" y="-120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-32" value="Phone___________" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-893" y="-80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-33" value="Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-883" y="-44" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-38" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-933" y="50" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-34" value="sign up with" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="5Kjr9UMDv22PJRdJNVOi-38">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-36" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google" vertex="1" parent="5Kjr9UMDv22PJRdJNVOi-38">
+          <mxGeometry x="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-39" value="organization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-693" y="-29" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-578" y="-20" width="27" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="-493" y="-320" width="200" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-42" value="Client Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-453" y="-256" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="-273" y="-320" width="200" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-47" value="Engage in Therapy sessions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-493" y="-120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-49" value="Offer solutions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-233" y="-186" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-50" value="follow up" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-228" y="-140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-51" value="Goal setting and monitoring" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-263" y="-76" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-52" value="Therapist Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-233" y="-256" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-55" value="Log out" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-418" y="31" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kjr9UMDv22PJRdJNVOi-56" value="Log out" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-203" y="31" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
